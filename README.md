@@ -1,6 +1,7 @@
 # sistemcerdas
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/379a71e6-b720-47ca-b88f-3524c4f1d4fd" alt="ss-2" width="500"/>
+<img src="https://github.com/user-attachments/assets/461ae3fe-e976-486a-bbfa-f6f26cd09029" alt="ss-1" width="500"/>
 
 ## Getting Started
 

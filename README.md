@@ -1,8 +1,9 @@
 # sistemcerdas
 
-<img src="https://github.com/user-attachments/assets/379a71e6-b720-47ca-b88f-3524c4f1d4fd" alt="ss-2" width="250"/>
-<img![WhatsApp Image 2024-12-14 at 09 50 23](https://github.com/user-attachments/assets/82a238f6-8960-4828-a67a-80fcd5939a36)width="250"/>
-<img src="https://github.com/user-attachments/assets/461ae3fe-e976-486a-bbfa-f6f26cd09029" alt="ss-1" width="250"/>
+<img src="https://github.com/user-attachments/assets/0b35d461-9f5b-418d-896b-5aa292da5e36" alt="WhatsApp Image 2024-12-14 at 09 10 50" width="250"/>
+<img src="https://github.com/user-attachments/assets/803051b9-5c3b-48b6-9bce-4b2ca1259634" alt="ss-1" width="250"/>
+<img src="https://github.com/user-attachments/assets/fba41344-5d06-4ea7-9fc7-416e7dbd7543" alt="ss-2" width="250"/>
+
 
 ## Getting Started
 

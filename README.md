@@ -1,7 +1,7 @@
 # sistemcerdas
+<img src="https://github.com/user-attachments/assets/21632929-5239-4499-9e75-50d02812ee4b" alt="ss-3" width="250"/>
 <img src="https://github.com/user-attachments/assets/2da1ff15-ea33-4308-ad7c-a65d3063d7e5" alt="ss-1" width="250"/>
 <img src="https://github.com/user-attachments/assets/a5c55c34-e230-4960-bcee-40009d116929" alt="ss-2" width="250"/>
-<img src="https://github.com/user-attachments/assets/21632929-5239-4499-9e75-50d02812ee4b" alt="ss-3" width="250"/>
 
 
 
